@@ -1,0 +1,24 @@
+Subject: Friendly reminder: Invoice {{ invoice_id }} payment
+
+Dear {{ customer_name }},
+
+I hope this message finds you well!
+
+This is a friendly reminder that invoice {{ invoice_id }} for ${{ invoice_amount }} was due on {{ due_date }}.
+
+Invoice Details:
+- Invoice #: {{ invoice_id }}
+- Amount: ${{ invoice_amount }}
+- Due Date: {{ due_date }}
+- Days {{ "overdue" if days_overdue > 0 else "until due" }}: {{ days_overdue if days_overdue > 0 else days_until_due }}
+
+We understand that oversights happen. If you've already sent the payment, please disregard this message and accept our thanks!
+
+If there's anything preventing you from making this payment, or if you have questions about the invoice, please don't hesitate to reach out. We're here to help and happy to discuss payment arrangements if needed.
+
+You can view and pay your invoice here: [Payment Link]
+
+Thank you for your continued partnership!
+
+Best regards,
+Accounts Receivable Team

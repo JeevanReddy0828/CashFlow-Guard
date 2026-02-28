@@ -1,0 +1,421 @@
+invoice_id,customer_id,customer_name,customer_email,invoice_amount,days_overdue,action_type,email_subject,email_body
+INV-000099,CUST-16539,Customer 16539,cust-16539@company.com,442.35,5528,friendly_reminder,Friendly Reminder: Invoice #INV-000099 - $442.35,"Dear Customer 16539,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000099 for $442.35 was due on December 31, 2010 (5528 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000099
+• Amount Due: $442.35
+• Original Due Date: December 31, 2010
+• Days Overdue: 5528
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000105,CUST-17690,Customer 17690,cust-17690@company.com,279.6,5528,friendly_reminder,Friendly Reminder: Invoice #INV-000105 - $279.60,"Dear Customer 17690,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000105 for $279.60 was due on December 31, 2010 (5528 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000105
+• Amount Due: $279.60
+• Original Due Date: December 31, 2010
+• Days Overdue: 5528
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000154,CUST-14901,Customer 14901,cust-14901@company.com,204.15,5527,friendly_reminder,Friendly Reminder: Invoice #INV-000154 - $204.15,"Dear Customer 14901,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000154 for $204.15 was due on January 01, 2011 (5527 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000154
+• Amount Due: $204.15
+• Original Due Date: January 01, 2011
+• Days Overdue: 5527
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000174,CUST-17850,Customer 17850,cust-17850@company.com,331.26,5527,friendly_reminder,Friendly Reminder: Invoice #INV-000174 - $331.26,"Dear Customer 17850,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000174 for $331.26 was due on January 01, 2011 (5527 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000174
+• Amount Due: $331.26
+• Original Due Date: January 01, 2011
+• Days Overdue: 5527
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000185,CUST-13117,Customer 13117,cust-13117@company.com,202.12,5527,friendly_reminder,Friendly Reminder: Invoice #INV-000185 - $202.12,"Dear Customer 13117,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000185 for $202.12 was due on January 01, 2011 (5527 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000185
+• Amount Due: $202.12
+• Original Due Date: January 01, 2011
+• Days Overdue: 5527
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000246,CUST-14576,Customer 14576,cust-14576@company.com,35.4,5527,friendly_reminder,Friendly Reminder: Invoice #INV-000246 - $35.40,"Dear Customer 14576,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000246 for $35.40 was due on January 01, 2011 (5527 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000246
+• Amount Due: $35.40
+• Original Due Date: January 01, 2011
+• Days Overdue: 5527
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000252,CUST-12738,Customer 12738,cust-12738@company.com,155.35,5527,friendly_reminder,Friendly Reminder: Invoice #INV-000252 - $155.35,"Dear Customer 12738,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000252 for $155.35 was due on January 01, 2011 (5527 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000252
+• Amount Due: $155.35
+• Original Due Date: January 01, 2011
+• Days Overdue: 5527
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000255,CUST-17552,Customer 17552,cust-17552@company.com,34.9,5527,friendly_reminder,Friendly Reminder: Invoice #INV-000255 - $34.90,"Dear Customer 17552,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000255 for $34.90 was due on January 01, 2011 (5527 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000255
+• Amount Due: $34.90
+• Original Due Date: January 01, 2011
+• Days Overdue: 5527
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000268,CUST-16905,Customer 16905,cust-16905@company.com,254.4,5526,friendly_reminder,Friendly Reminder: Invoice #INV-000268 - $254.40,"Dear Customer 16905,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000268 for $254.40 was due on January 02, 2011 (5526 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000268
+• Amount Due: $254.40
+• Original Due Date: January 02, 2011
+• Days Overdue: 5526
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000300,CUST-16140,Customer 16140,cust-16140@company.com,124.14,5526,friendly_reminder,Friendly Reminder: Invoice #INV-000300 - $124.14,"Dear Customer 16140,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000300 for $124.14 was due on January 02, 2011 (5526 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000300
+• Amount Due: $124.14
+• Original Due Date: January 02, 2011
+• Days Overdue: 5526
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000340,CUST-15332,Customer 15332,cust-15332@company.com,438.0,5524,friendly_reminder,Friendly Reminder: Invoice #INV-000340 - $438.00,"Dear Customer 15332,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000340 for $438.00 was due on January 04, 2011 (5524 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000340
+• Amount Due: $438.00
+• Original Due Date: January 04, 2011
+• Days Overdue: 5524
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000345,CUST-13831,Customer 13831,cust-13831@company.com,408.0,5524,friendly_reminder,Friendly Reminder: Invoice #INV-000345 - $408.00,"Dear Customer 13831,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000345 for $408.00 was due on January 04, 2011 (5524 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000345
+• Amount Due: $408.00
+• Original Due Date: January 04, 2011
+• Days Overdue: 5524
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000346,CUST-12841,Customer 12841,cust-12841@company.com,211.74,5524,friendly_reminder,Friendly Reminder: Invoice #INV-000346 - $211.74,"Dear Customer 12841,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000346 for $211.74 was due on January 04, 2011 (5524 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000346
+• Amount Due: $211.74
+• Original Due Date: January 04, 2011
+• Days Overdue: 5524
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000366,CUST-14527,Customer 14527,cust-14527@company.com,292.95,5524,friendly_reminder,Friendly Reminder: Invoice #INV-000366 - $292.95,"Dear Customer 14527,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000366 for $292.95 was due on January 04, 2011 (5524 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000366
+• Amount Due: $292.95
+• Original Due Date: January 04, 2011
+• Days Overdue: 5524
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000438,CUST-14708,Customer 14708,cust-14708@company.com,419.06,5523,friendly_reminder,Friendly Reminder: Invoice #INV-000438 - $419.06,"Dear Customer 14708,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000438 for $419.06 was due on January 05, 2011 (5523 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000438
+• Amount Due: $419.06
+• Original Due Date: January 05, 2011
+• Days Overdue: 5523
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000460,CUST-15984,Customer 15984,cust-15984@company.com,122.7,5523,friendly_reminder,Friendly Reminder: Invoice #INV-000460 - $122.70,"Dear Customer 15984,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000460 for $122.70 was due on January 05, 2011 (5523 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000460
+• Amount Due: $122.70
+• Original Due Date: January 05, 2011
+• Days Overdue: 5523
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000466,CUST-16658,Customer 16658,cust-16658@company.com,123.24,5523,friendly_reminder,Friendly Reminder: Invoice #INV-000466 - $123.24,"Dear Customer 16658,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000466 for $123.24 was due on January 05, 2011 (5523 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000466
+• Amount Due: $123.24
+• Original Due Date: January 05, 2011
+• Days Overdue: 5523
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000472,CUST-17223,Customer 17223,cust-17223@company.com,292.84,5523,friendly_reminder,Friendly Reminder: Invoice #INV-000472 - $292.84,"Dear Customer 17223,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000472 for $292.84 was due on January 05, 2011 (5523 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000472
+• Amount Due: $292.84
+• Original Due Date: January 05, 2011
+• Days Overdue: 5523
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000476,CUST-17191,Customer 17191,cust-17191@company.com,30.45,5523,friendly_reminder,Friendly Reminder: Invoice #INV-000476 - $30.45,"Dear Customer 17191,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000476 for $30.45 was due on January 05, 2011 (5523 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000476
+• Amount Due: $30.45
+• Original Due Date: January 05, 2011
+• Days Overdue: 5523
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"
+INV-000484,CUST-17884,Customer 17884,cust-17884@company.com,137.11,5523,friendly_reminder,Friendly Reminder: Invoice #INV-000484 - $137.11,"Dear Customer 17884,
+
+I hope this message finds you well!
+
+This is a friendly reminder that Invoice #INV-000484 for $137.11 was due on January 05, 2011 (5523 days ago).
+
+We understand that oversights happen, and we wanted to reach out to see if there's anything we can help with regarding this payment.
+
+Invoice Details:
+• Invoice Number: INV-000484
+• Amount Due: $137.11
+• Original Due Date: January 05, 2011
+• Days Overdue: 5523
+
+If you've already sent payment, please disregard this message. If you have any questions, please contact us.
+
+Thank you for your business!
+
+Best regards,
+Accounts Receivable Team
+"

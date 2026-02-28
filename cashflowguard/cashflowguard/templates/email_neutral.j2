@@ -1,0 +1,25 @@
+Subject: Payment reminder: Invoice {{ invoice_id }}
+
+Dear {{ customer_name }},
+
+This is a payment reminder for invoice {{ invoice_id }}.
+
+Invoice Details:
+- Invoice #: {{ invoice_id }}
+- Amount Due: ${{ invoice_amount }}
+- Original Due Date: {{ due_date }}
+- Current Status: {{ days_overdue }} days overdue
+
+This invoice is now past due. We kindly request that you submit payment at your earliest convenience.
+
+If you have questions about this invoice or need to discuss payment terms, please contact us within 3 business days.
+
+Payment options:
+- Online: [Payment Link]
+- Bank Transfer: [Account Details]
+- Check: Mail to [Address]
+
+If payment has already been sent, please reply with the payment confirmation details.
+
+Regards,
+Accounts Receivable Department
