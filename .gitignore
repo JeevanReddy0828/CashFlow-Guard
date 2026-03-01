@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated data and outputs
+cashflowguard/data/sample/
+cashflowguard/data/real/
+cashflowguard/outputs/
+cashflowguard/collection_messages.csv
+
+# Trained models (large binary files)
+cashflowguard/models/*.pkl
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/settings.local.json
