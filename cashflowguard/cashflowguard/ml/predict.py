@@ -55,7 +55,6 @@ def score_invoices(
         open_invoices,
         customers_df,
         payments_df,
-        pd.DataFrame()  # Empty actions for now
     )
     
     # Get predictions
